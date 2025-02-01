@@ -3,9 +3,18 @@
   "version": "1.0.0",
   "main": "nodejsPractice.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "akash": "echo \"Hey Akash!\""
   },
   "author": "Akash Gupta",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "accessibility": "^5.0.6",
+    "chalk": "^5.4.1",
+    "one-liner-joke": "^1.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
